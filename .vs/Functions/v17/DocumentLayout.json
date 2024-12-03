@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saskia\\source\\repos\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD337DB-D633-4184-A7A1-108A937F6963}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|c:\\users\\saskia\\source\\repos\\functions\\argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD337DB-D633-4184-A7A1-108A937F6963}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|solutionrelative:argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D607697A-26AF-419C-88DB-2AACFC0E6A79}|DiscountCalculator\\DiscountCalculator.csproj|c:\\users\\saskia\\source\\repos\\functions\\discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D607697A-26AF-419C-88DB-2AACFC0E6A79}|DiscountCalculator\\DiscountCalculator.csproj|solutionrelative:discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C151884F-B843-4BD4-85DD-9D39C0EBCAAF}|Functions\\Functions.csproj|c:\\users\\saskia\\source\\repos\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C151884F-B843-4BD4-85DD-9D39C0EBCAAF}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D77E97-B66E-4F1B-82A3-66B9A91AB9D0}|Calculator\\Calculator.csproj|c:\\users\\saskia\\source\\repos\\functions\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D77E97-B66E-4F1B-82A3-66B9A91AB9D0}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeToolTip": "DiscountCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:03:57.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Functions\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Functions\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:51:58.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeToolTip": "ArgumentsAndParameters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:42:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Functions\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Functions\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:32:29.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
